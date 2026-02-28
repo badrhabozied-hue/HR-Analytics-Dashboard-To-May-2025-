@@ -44,7 +44,7 @@ The objective of this project is to explore HR data and develop a dashboard that
 ---
 
 ## 📷 Dashboard Preview
-<img src="Dashbord.png" alt="HR Analytics Dashboard (To May 2025)="img">
+<img src="Dashbord.png" width="700">
 
 ---
 
